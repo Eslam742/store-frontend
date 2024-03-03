@@ -5,7 +5,7 @@ const nextConfig = {
         ignoreDuringBuilds: true,
     },
     images: {
-        domains: ["res.cloudinary.com"],
+        domains: ["res.cloudinary.com", "https://fonts.googleapis.com", "https://fonts.gstatic.com"],
     },
 };
 
